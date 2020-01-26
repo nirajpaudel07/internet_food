@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="419619d4-217a-4ff5-824b-1bad97926bfa" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1STQXMBhbLoPU9v8BFVdik6a5ku" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oneplus" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="419619d4-217a-4ff5-824b-1bad97926bfa" name="Default Changelist" comment="" />
+      <created>1571585143239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571585143239</updated>
+      <workItem from="1571585144980" duration="1443000" />
+      <workItem from="1571661832793" duration="67778000" />
+      <workItem from="1572112582929" duration="8035000" />
+      <workItem from="1572269457327" duration="7078000" />
+      <workItem from="1572365363059" duration="22932000" />
+      <workItem from="1572689995094" duration="6183000" />
+      <workItem from="1578644926885" duration="1810000" />
+      <workItem from="1578734327254" duration="745000" />
+      <workItem from="1579680134469" duration="3564000" />
+      <workItem from="1579699671031" duration="3246000" />
+      <workItem from="1579785604510" duration="18890000" />
+      <workItem from="1579929172251" duration="9272000" />
+      <workItem from="1579969451063" duration="1542000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
